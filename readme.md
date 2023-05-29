@@ -1,4 +1,4 @@
-# Project 11
+# Hosting Service Landing Page
 
 ## Time Taken - about 5 hours
 
