@@ -5,7 +5,7 @@
 ***
 
 ## Website Link:
-### [Project 11 Link](https://aryansharma15.github.io/hosting_service_landing/)
+### [Project Link](https://aryansharma15.github.io/hosting_service_landing/)
 
 ## Tech Stack Used
 
